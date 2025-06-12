@@ -1,4 +1,4 @@
-# _t0x1c_'s info, stats & security audits
+# 👋 _t0x1c_'s info, stats & security audits
 
 #### I weed out t0x1c bugs from codebases.
 - Security Researcher @ [Pashov Audit Group](https://x.com/PashovAuditGrp)
