@@ -54,14 +54,8 @@ My Profile Summary on:
 
 <br>
 
-**Lifetime Findings** : 156 $\rightarrow$ 43 Highs, 113 Mediums<br>
+🔎 **Lifetime Findings** : 156 $\rightarrow$ 43 Highs, 113 Mediums<br>
 
-**Lifetime Earnings** ( _since September 2023_ ) : `$89,576` <br>
-
-**Financial Year ( Apr-Mar ) Earnings Breakdown:**<br>
-FY 2025-26 Earnings (ongoing) : `$18,120` <br>
-FY 2024-25 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$48,627` <br>
-FY 2023-24 Earnings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: `$22,829` <br>
 <br>
 
 ## 🛡️ Private Audits
